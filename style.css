@@ -1,0 +1,14 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+
+body{
+    color: white;
+    background: pink;
+}
+
+#result_object_name,#result_object_accuracy,.name_of_objects{
+    color: rebeccapurple;
+}
